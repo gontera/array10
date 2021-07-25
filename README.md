@@ -1,5 +1,5 @@
-# array10
-行列 10 鍵數字輸入法表格 (Tables of Array10 Numeric Input Method)
+# 行列 10 鍵數字輸入法表格
+(Tables of Array10 Numeric Input Method)
 
 這是提供給 LIME for Android 的「行列10」輸入法表格，其中 array10a 已內建在 LIME 中，使用者無需再重覆匯入。
 
