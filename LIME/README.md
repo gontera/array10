@@ -1,7 +1,10 @@
 # 行列 10 鍵數字輸入法 for LIME
 (Array10 Numeric Input Method Tables for LIME)
 
-這是提供給 LIME for Android 的「行列10」輸入法表格。
+這是提供給 LIME for Android 的「行列10」輸入法表格。本站提供兩種「行列10」的鍵碼表：
+
+* array10a: 支援 Unicode 3.0 範圍（亦即包括中日韓統一表意文字延伸 A 區 (Ext-A)）共二萬七千餘漢字的「標準版」。
+* array10b: 支援 Unicode 3.1 範圍漢字（亦即包括中日韓統一表意文字延伸 B 區 (Ext-B)）的「大字集版」。
 
 **使用步驟：**
 1. 先下載本站提供的鍵碼表，請擇一選擇下載標準版 (array10a-yyyymmdd.lime) 或大字集版 (array10b-yyyymmdd.lime)。
