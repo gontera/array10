@@ -3,9 +3,9 @@
 
 這是提供給 LIME for Android 的「行列10」輸入法表格。
 
-* /DIME：專為 DIME for Windows 設計的「行列10」輸入法表格檔（即將釋出）。
 * /LIME：專為 LIME for Android 設計的「行列10」輸入法表格檔。
 * /OpenVanilla：專為 OpenVanilla for macOS 設計的「行列10」輸入法表格檔（即將釋出）。
+* /gcin：專為 gcin 設計的「行列10」輸入法鍵碼表。
 
 ## 行列10 輸入法簡介、使用指引及版權聲明
 請參考本站的 [wiki 頁面](https://github.com/gontera/array10/wiki/%E8%A1%8C%E5%88%9710%E9%8D%B5%E6%95%B8%E5%AD%97%E8%BC%B8%E5%85%A5%E6%B3%95%E8%AA%AA%E6%98%8E%E5%8F%8A%E6%8C%87%E5%BC%95%E9%A6%96%E9%A0%81)。
