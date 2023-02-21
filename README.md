@@ -4,7 +4,7 @@
 這是提供給 LIME for Android 的「行列10」輸入法表格。
 
 * /LIME：專為 LIME for Android 設計的「行列10」輸入法表格檔。
-* /OpenVanilla：專為 OpenVanilla for macOS 設計的「行列10」輸入法表格檔（即將釋出）。
+* /OpenVanilla：專為 OpenVanilla for macOS 設計的「行列10」輸入法表格檔。
 * /gcin：專為 gcin 設計的「行列10」輸入法鍵碼表。
 
 ## 行列10 輸入法簡介、使用指引及版權聲明
