@@ -17,6 +17,8 @@
 [請點此參考](https://github.com/gontera/array30/wiki/LIME-%E6%95%99%E5%AD%B8-(1)%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8-LIME-%E4%B8%8A%E9%9D%A2%E5%8C%AF%E5%85%A5%E6%96%B0%E7%89%88%E7%9A%84%E8%A1%8C%E5%88%97%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
 ### gcin for Android
 [請點此參考](https://github.com/gontera/array30/wiki/gcin-for-Android-%E6%95%99%E5%AD%B8-(3)%EF%BC%9A%E6%8E%9B%E8%BC%89%E6%96%B0%E7%89%88%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E6%A8%A1%E7%B5%84)。
+### OpenVanilla
+[請點此參考](https://github.com/gontera/array30/wiki/OpenVanilla-%E6%95%99%E5%AD%B8-(2)%EF%BC%9A%E5%8C%AF%E5%85%A5%E8%A1%8C%E5%88%9710-%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
 
 ## 版本釋出說明
 版本：v2023-1.0，釋出日期：2023-02-11
