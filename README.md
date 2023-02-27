@@ -7,6 +7,8 @@
 * /OpenVanilla：專為 OpenVanilla for macOS 設計的「行列10」鍵碼表。
 * /gcin：專為 gcin (for Windows/Linux/Android) 設計的「行列10」鍵碼表。
 
+**【註：如欲匯入行列10鍵碼表給「DIME 自建」輸入法使用時，建議使用 OpenVanilla 的版本】**
+
 ## 行列10 輸入法簡介、使用指引及版權聲明
 請參考本站的 [wiki 頁面](https://github.com/gontera/array10/wiki)。
 
