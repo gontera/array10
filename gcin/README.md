@@ -1,5 +1,5 @@
 # 行列10 輸入法鍵碼表 for gcin
-截至 2026/04/14 為止，gcin 行列10 (array10a)：已降版為 2010 年發行的最初版本，該版本有「的」(53) 誤植為 (51)，以及「鬥」(33) 誤植為 (31) 的問題。故特別在此呼籲：**如果你正在使用 gcin for Android，請儘速從本人的 github 頁面下載最新版本的 .gtab 表格（array10a-gcin-v2023-1.0），並參考本站的[教學頁](https://github.com/gontera/array30/wiki/gcin-for-Android-%E6%95%99%E5%AD%B8-(3)%EF%BC%9A%E6%8E%9B%E8%BC%89%E6%96%B0%E7%89%88%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E6%A8%A1%E7%B5%84)，自行將 .gtab 表格匯入 gcin 使用。**
+截至 2026/04/14 為止，gcin 行列10 (array10a) 已降版為 2010 年發行的最初版本，該版本有「的」(53) 誤植為 (51)，以及「鬥」(33) 誤植為 (31) 的問題。故特別在此呼籲：**如果你正在使用 gcin for Android，請儘速從本人的 github 頁面下載最新版本的 .gtab 表格（array10a-gcin-v2023-1.0），並參考本站的[教學頁](https://github.com/gontera/array30/wiki/gcin-for-Android-%E6%95%99%E5%AD%B8-(3)%EF%BC%9A%E6%8E%9B%E8%BC%89%E6%96%B0%E7%89%88%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E6%A8%A1%E7%B5%84)，自行將 .gtab 表格匯入 gcin 使用。**
 
 要如何檢測您 gcin 行列30 或行列 10 的版本呢？其實不難，只需在 gcin 行列10 中輸入 (51) 或 (31)，如果候選字區出現「的」或「鬥」，則表示你的 gcin 行列10 是舊版。
 
