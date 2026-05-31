@@ -10,17 +10,39 @@
 **【註：如欲匯入行列10鍵碼表給「DIME 自建」輸入法使用時，建議使用 OpenVanilla 的版本】**
 
 ## 行列10 輸入法簡介、使用指引及版權聲明
-請參考本站的 [wiki 頁面](https://github.com/gontera/array10/wiki)。
+行列10 是將行列30 的字根數字化的衍生變形，二者對於文字拆碼方式基本上是相同的；行列10 僅使用數字鍵盤 1234567890 共 10 個數字鍵輸入字根碼，來代替行列30 中的 30 個鍵盤鍵位，因此特別容易實現於手機的數字鍵盤。相較於行列30 的多鍵位，行列10 在手機上使用，更享有數字鍵面積大、較不易按錯鍵的優點。
+
+有關行列10 的版權聲明，以及其與行列30 的取碼差異，請參考本站的 [wiki 頁面](https://github.com/gontera/array10/wiki)。
 
 ## 鍵碼表匯入教學
-### LIME
-[請點此參考](https://github.com/gontera/array30/wiki/LIME-%E6%95%99%E5%AD%B8-(1)%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8-LIME-%E4%B8%8A%E9%9D%A2%E5%8C%AF%E5%85%A5%E6%96%B0%E7%89%88%E7%9A%84%E8%A1%8C%E5%88%97%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
-### gcin for Android
-gcin 內建行列10 為 2010 年釋出的早期版本，因為有「的」(53) 誤植為 (51)，以及「鬥」(33) 誤植為 (31) 的情形，請[參考此處](https://github.com/gontera/array30/wiki/gcin-for-Android-%E6%95%99%E5%AD%B8-(3)%EF%BC%9A%E6%8E%9B%E8%BC%89%E6%96%B0%E7%89%88%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E6%A8%A1%E7%B5%84)自行更新 .gtab 輸入法表格。
-### DIME
-[請點此參考](https://github.com/gontera/array30/wiki/DIME-%E6%95%99%E5%AD%B8-(1)%EF%BC%9A%E5%8C%AF%E5%85%A5%E8%A1%8C%E5%88%9710-%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
-### OpenVanilla
-[請點此參考](https://github.com/gontera/array30/wiki/OpenVanilla-%E6%95%99%E5%AD%B8-(2)%EF%BC%9A%E5%8C%AF%E5%85%A5%E8%A1%8C%E5%88%9710-%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)。
+本站提供 array10a、array10b 及 array10c 三種支援不同字集範圍的行列10 鍵碼表：
+
+* array10a：支援包括 Unicode 中日韓 (CJK) 統一表意文字延伸 A 區 (Ext-A)）共二萬七千餘漢字的「標準版」。【註：如果您不知匯入哪組版本較好，建議就直接選這組】
+* array10b：支援字集包括 Unicode CJK Ext-A/B 共七萬餘字的「大字集版」。
+* array10c：支援字集涵蓋 Unicode CJK Ext-A~G 合計九萬二千餘字（c 代表 "Complete Set"，即蒐錄的範圍為「全字集」之意），蒐錄的字集範圍最廣、字數最多。
+
+此外，有些輸入法軟體已內建行列10，該等軟體於安裝完成後即可使用行列10；但另有一部分輸入法軟體沒有內建行列10，必須由使用者自行匯入鍵碼表後方能使用。請參考下列說明：
+
+### Android 平台
+#### gcin for Android
+gcin 內建的行列10 為 2010 年釋出的 array10a 早期版本，因為有「的」(53) 誤植為 (51)，以及「鬥」(33) 誤植為 (31) 的情形，請[參考此處](https://github.com/gontera/array30/wiki/gcin-for-Android-%E6%95%99%E5%AD%B8-(3)%EF%BC%9A%E6%8E%9B%E8%BC%89%E6%96%B0%E7%89%88%E8%A1%8C%E5%88%97%E8%BC%B8%E5%85%A5%E6%B3%95%E6%A8%A1%E7%B5%84)自行更新 v2023-1.0 新版本 .gtab 輸入法表格。或如您有擴充支援字集（如 Unicode CJK Ext-B）的需求時，亦可參考該篇說明自行更換為 array10b/c 鍵碼表。
+
+#### LIME
+LIME 6.x 已內建行列10 (array10a) 的最新版本 v2023-1.0。惟如未來行列10 鍵碼表若有更新，請自行[參考此處](https://github.com/gontera/array30/wiki/LIME-%E6%95%99%E5%AD%B8%EF%BC%9A%E5%8C%AF%E5%85%A5%E6%96%B0%E7%89%88%E8%A1%8C%E5%88%97%E9%8D%B5%E7%A2%BC%E8%A1%A8)下載新版鍵碼表並更新。或如您有擴充支援字集（如 Unicode CJK Ext-B）的需求時，亦可參考該篇說明自行更換為 array10b/c 鍵碼表。
+
+#### UrKeyboard
+UrKeyboard 2.x 雖已內建行列10 (array10a) 的最新版本 v2023-1.0，但它同時也支援使用者手動匯入字典檔 (.cin)；未來如行列10 鍵碼表有更新釋出，請自行下載新版鍵碼表匯入使用。（推薦使用 gcin 格式的 array10a/b/c .cin 鍵碼表。或有擴充支援字集（如 Unicode CJK Ext-B）的需求時，亦可自行載入 array10b/c 鍵碼表）。
+
+### iOS/iPadOS 平台
+OkidoKey/Frankie 已內建行列10 (array10a) 的最新版本 v2023-1.0。
+
+### macOS 平台
+#### OpenVanilla
+OpenVanilla 未內建行列10，您必須自行匯入鍵碼表。[請點此](https://github.com/gontera/array30/wiki/OpenVanilla-%E6%95%99%E5%AD%B8-(2)%EF%BC%9A%E5%8C%AF%E5%85%A5%E8%A1%8C%E5%88%9710-%E8%BC%B8%E5%85%A5%E6%B3%95%E9%8D%B5%E7%A2%BC%E8%A1%A8)瞭解匯入行列10 鍵碼表的作法。
+
+### Windows 平台
+#### DIME
+DIME 未內建行列10，您必須自行匯入鍵碼表。[請點此](https://github.com/gontera/array30/wiki/DIME-%E6%95%99%E5%AD%B8-(1)%EF%BC%9A%E5%8C%AF%E5%85%A5%E8%A1%8C%E5%88%9710-%E9%8D%B5%E7%A2%BC%E8%A1%A8)瞭解匯入行列10 鍵碼表的作法。
 
 ## 版本釋出說明
 版本：v2023-1.0，釋出日期：2023-02-11
