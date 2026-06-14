@@ -1,7 +1,16 @@
 # 行列10輸入法(array10c) ，版本 v2023-1.0
-# 釋出日期：2023-02-11
+# 釋出日期：2026-06-14
 # 詳細說明請參見 https://github.com/gontera/array10
 
+@format@|lime-text-v2
+@version@|array10c-v2023-1.0
+@cname@|全行列10
+@limeendkey@|,.
+@spacestyle@|2
+@imkeys@|1234567890
+@imkeynames@|1\|2\|3\|4\|5\|6\|7\|8\|9\|0
+
+%chardef begin
 # Begin of CJK Unified Ideographs /w Extension A
 380871	溫
 210871	媼
@@ -107795,3 +107804,4 @@
 2550	８
 2550	９
 # End of Fullwidth Characters
+%chardef end
